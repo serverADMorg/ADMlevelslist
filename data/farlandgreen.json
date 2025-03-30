@@ -9,16 +9,10 @@
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "snowninja6861",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+     ]
 }
