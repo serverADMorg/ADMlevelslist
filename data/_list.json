@@ -1,6 +1,7 @@
 [
     "femc",
     "deadlocked",
+    "toe2",
     "fg",
     "sof",
     "invstep",
@@ -16,6 +17,5 @@
     "fortrox",
     "cycle",
     "xstep",
-    "gr",
-    "toe2"
+    "gr"
 ]
