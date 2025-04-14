@@ -9,15 +9,16 @@
     "password": "Not Copyable",
     "records": [
           {
-        "user": "alfie",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 60
-        },
-          {
         "user": "bladecar",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 60
+          },
+          {
+        "user": "alfie",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
            ]
 }
