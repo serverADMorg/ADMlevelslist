@@ -99,6 +99,7 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
+                    https://docs.google.com/document/d/1kvr3dtZtztVJzMF1hJaYBcwkdRXEuOXlg2BAWh1uc4g/edit?usp=sharing
                 </div>
             </div>
         </main>
