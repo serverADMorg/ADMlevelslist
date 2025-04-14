@@ -14,6 +14,12 @@
             "percent": 100,
             "hz": 240
         },
+          {
+        "user": "bladecar",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+          },
          {
         "user": "alfie",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
@@ -22,12 +28,6 @@
         },
           {
         "user": "sibanda",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 60
-        },
-          {
-        "user": "bladecar",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 60
