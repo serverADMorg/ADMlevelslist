@@ -97,7 +97,8 @@ export default {
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
-                    </template><a href="https://docs.google.com/document/d/1VEc9-tw4ONnuBRxiuP9NA5q6aJnyZg2-UKyu54VhHIQ/edit?usp=sharing" target="_blank"> Submission Requirements </a>
+                    </template><a href="https://docs.google.com/document/d/1kvr3dtZtztVJzMF1hJaYBcwkdRXEuOXlg2BAWh1uc4g/edit?usp=sharing" target="_blank"> 
+                    Submission Requirements </a>
                     
                 </div>
             </div>
