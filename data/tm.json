@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 70,
             "hz": 60
+        },
+          {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
         }
            ]
 }
