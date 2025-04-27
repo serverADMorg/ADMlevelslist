@@ -1,7 +1,7 @@
 [
     {
         "role": "owner",
-        "name": "serverADMorg",
+        "name": "serverADM",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
@@ -9,14 +9,34 @@
         "name": "snowninja6861",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
+     {
+        "role": "admin",
+        "name": "bladecar",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
     {
         "role": "helper",
-        "name": "snowninja6861",
+        "name": "shadowninja",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }, 
+    {
+        "role": "helper",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "shadowninja",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "chickman",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+     {
+        "role": "trial",
+        "name": "lexon",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
