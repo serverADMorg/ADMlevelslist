@@ -1,5 +1,5 @@
 {
-    "id": 101368770,
+    "id": 102165110,
     "name": "grim reaper",
     "author": "shadiwwisard",
     "creators": ["shadiwwisard"],
@@ -13,12 +13,6 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 240
-        },
-          {
-        "user": "bladecar",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 80,
-            "hz": 60
-          }
+        }
            ]
 }
