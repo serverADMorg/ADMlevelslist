@@ -9,7 +9,6 @@
     "password": "Not Copyable",
     "records": [
           {
-                 {
         "user": "bladecar",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
@@ -45,5 +44,5 @@
             "percent": 100,
             "hz": 120
         }
-           ]
+    ]
 }
