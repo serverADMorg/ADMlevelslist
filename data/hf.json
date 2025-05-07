@@ -12,7 +12,13 @@
         "user": "alfie",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 34,
-            "hz": 60
-          }
+            "hz": mobile
+          },
+           {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 63,
+            "hz": 240
+        }
            ]
 }
