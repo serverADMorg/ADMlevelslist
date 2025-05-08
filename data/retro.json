@@ -8,5 +8,17 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+        {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 61,
+            "hz": 60
+          },
+             {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 67,
+            "hz": 240
+        }
            ]
 }
