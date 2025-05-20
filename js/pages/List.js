@@ -88,6 +88,8 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
                     </div>
+                    <p class="type-label-md">video stockholders by jbsr on youtube <a href="https://www.youtube.com/@jbsr">
+                    </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
