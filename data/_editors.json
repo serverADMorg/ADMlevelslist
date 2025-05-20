@@ -33,15 +33,15 @@
         "role": "trial",
         "name": "chickman",
         "link": "https://www.youtube.com/@ChickMan12"
-    },  
-    {
-        "role": "trial",
-        "name": "JB",
-        "link": "https://www.youtube.com/@jbsr"
     },
     {
         "role": "dev",
         "name": "snowninja6861",
         "link": "https://www.youtube.com/@SnowNinja68611"
+    },  
+    {
+        "role": "trial",
+        "name": "JB",
+        "link": "https://www.youtube.com/@jbsr"
     }
 ]
