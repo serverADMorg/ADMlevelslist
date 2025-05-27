@@ -7,18 +7,17 @@
     "verification": "https://www.youtube.com/watch?v=reZj2Xbt05Q",
     "percentToQualify": 35,
     "password": "Free To Copy",
-    "records": [
+    "records": [ {
+        "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=reZj2Xbt05Q",
+            "percent": 100,
+            "hz": 240
+          },
         {
         "user": "chickman",
             "link": "https://www.youtube.com/watch?v=reZj2Xbt05Q",
-            "percent": 61,
-            "hz": 240
-          },
-         {
-        "user": "lexon",
-            "link": "https://www.youtube.com/watch?v=reZj2Xbt05Q",
-            "percent": 45,
+            "percent": 80,
             "hz": 240
           }
-    ]
+            ]
 }
