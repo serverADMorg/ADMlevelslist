@@ -8,5 +8,11 @@
     "percentToQualify": 38,
     "password": "Not Copyable",
     "records": [
+         {
+        "user": "chickman",
+            "link": "https://youtu.be/BOpTXaLpC4s",
+            "percent": 53,
+            "hz": 240
+          }
     ]
 }
