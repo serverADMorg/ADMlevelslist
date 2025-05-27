@@ -7,7 +7,8 @@
     "verification": "https://youtu.be/SkvMj1pbJeg",
     "percentToQualify": 58,
     "password": "Free To Copy",
-    "records": [ {
+    "records": [ 
+        {
         "user": "chickman",
             "link": "https://youtu.be/SkvMj1pbJeg",
             "percent": 100,
@@ -18,6 +19,6 @@
             "link": "https://youtu.be/SkvMj1pbJeg",
             "percent": 68,
             "hz": 240
-         },
+         }
     ]
 }
