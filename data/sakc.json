@@ -11,7 +11,13 @@
          {
         "user": "chickman",
             "link": "https://youtu.be/BOpTXaLpC4s",
-            "percent": 53,
+            "percent": 100,
+            "hz": 240
+          }, 
+        {
+        "user": "lexon",
+            "link": "https://youtu.be/BOpTXaLpC4s",
+            "percent": 100,
             "hz": 240
           }
     ]
