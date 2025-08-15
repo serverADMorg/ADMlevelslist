@@ -8,12 +8,6 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
-          {
-        "user": "bladecar",
-            "link": "https://www.youtube.com/watch?v=gok5ShDXxg4",
-            "percent": 97,
-            "hz": 60
-          },
            {
         "user": "lexon",
             "link": "https://www.youtube.com/watch?v=gok5ShDXxg4",
@@ -31,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=gok5ShDXxg4",
             "percent": 100,
             "hz": 240
-        }
+        },
+           {
+        "user": "bladecar",
+            "link": "https://www.youtube.com/watch?v=gok5ShDXxg4",
+            "percent": 100,
+            "hz": 60
+          }
            ]
 }
