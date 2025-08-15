@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=ivkQcjt22tQ",
             "percent": 100,
             "hz": 240
+        },
+         {
+        "user": "bladecar",
+            "link": "https://www.youtube.com/watch?v=ivkQcjt22tQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
