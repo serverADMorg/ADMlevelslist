@@ -17,7 +17,13 @@
         {
         "user": "chickman",
             "link": "https://www.youtube.com/watch?v=dOdPoU1ncOc",
-            "percent": 95,
+            "percent": 100,
+            "hz": 240
+          },
+        {
+        "user": "andromeda",
+            "link": "https://www.youtube.com/watch?v=dOdPoU1ncOc",
+            "percent": 100,
             "hz": 240
           }
     ]
