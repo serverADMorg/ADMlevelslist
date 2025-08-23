@@ -8,6 +8,18 @@
     "percentToQualify": 34,
     "password": "Free To Copy",
     "records": [
+        {
+        "user": "andromeda",
+            "link": "https://www.youtube.com/watch?v=ohKPqGxotao",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+        "user": "akari",
+            "link": "https://www.youtube.com/watch?v=ohKPqGxotao",
+            "percent": 100,
+            "hz": 240
+        }
      
     ]
 }
