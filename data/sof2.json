@@ -8,6 +8,12 @@
     "percentToQualify": 47,
     "password": "Free To Copy",
     "records": [
+         {
+        "user": "chickman",
+            "link": "https://www.youtube.com/watch?v=bHv5eYluQIQ",
+            "percent": 100,
+            "hz": 240
+          }
      
     ]
 }
