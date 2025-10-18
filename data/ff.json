@@ -1,0 +1,18 @@
+{
+    "id": 44062068,
+    "name": "future funk",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "chickman",
+    "verification": "https://www.youtube.com/watch?v=LUORMA2NvmM&t=228s",
+    "percentToQualify": "25",
+    "password": "46290",
+    "records": [
+        {
+            "user": "akari",
+            "link": "https://www.youtube.com/watch?v=LUORMA2NvmM&t=228s",
+            "percent": 67,
+            "hz": 240
+        }
+    ]
+}
