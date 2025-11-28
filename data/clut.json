@@ -3,16 +3,16 @@
     "name": "clutterfunk",
     "author": "RobsVault",
     "creators": ["robtop"],
-    "verifier": "snowninja6861",
+    "verifier": "bladecar",
     "verification": "https://www.youtube.com/watch?v=ZMylCezzjao",
     "percentToQualify": 36,
     "password": "Not Copyable",
     "records": [
           {
-        "user": "bladecar",
+        "user": "snowninja6861",
             "link": "https://www.youtube.com/watch?v=ZMylCezzjao",
             "percent": 100,
-            "hz": 60
+            "hz": 240
           },
           {
         "user": "alfie",
