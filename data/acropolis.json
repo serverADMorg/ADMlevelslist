@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "chikman",
+            "link": "https://www.youtube.com/watch?v=SSAfuCZ2cks",
+            "percent": 70,
+            "hz": 240
+        }
     ]
 }
