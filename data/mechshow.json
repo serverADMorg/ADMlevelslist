@@ -5,9 +5,20 @@
     "creators": ["Tongii"],
     "verifier": "andromeda",
     "verification": "https://www.youtube.com/watch?v=scXj5x3_HfQ",
-    "percentToQualify": 20,
+    "percentToQualify": 50,
     "password": "Free To Copy",
     "records": [
-     
+      {
+            "user": "Rshadow",
+            "link": "https://www.youtube.com/watch?v=scXj5x3_HfQ",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "VIPER",
+            "link": "https://www.youtube.com/watch?v=scXj5x3_HfQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
