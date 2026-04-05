@@ -9,9 +9,21 @@
     "password": "Not Copyable",
     "records": [
           {
+        "user": "l1ghtng",
+            "link": "https://www.youtube.com/watch?v=Z-tBchNg8Vg",
+            "percent": 100,
+            "hz": 144
+          },
+          {
         "user": "snowninja6861",
             "link": "https://www.youtube.com/watch?v=Z-tBchNg8Vg",
             "percent": 90,
+            "hz": 144
+          },
+         {
+        "user": "VIPER",
+            "link": "https://www.youtube.com/watch?v=Z-tBchNg8Vg",
+            "percent": 67,
             "hz": 144
           }
     ]
