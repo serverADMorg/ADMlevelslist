@@ -8,5 +8,35 @@
     "percentToQualify": "32",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "akari",
+            "link": "https://www.youtube.com/watch?v=GVhRzEpATag",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ROSA",
+            "link": "https://www.youtube.com/watch?v=GVhRzEpATag",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "VIPER",
+            "link": "https://www.youtube.com/watch?v=GVhRzEpATag",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "akari",
+            "link": "https://www.youtube.com/watch?v=GVhRzEpATag",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "lexon",
+            "link": "https://www.youtube.com/watch?v=GVhRzEpATag",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
