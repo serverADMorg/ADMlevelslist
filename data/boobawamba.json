@@ -4,9 +4,15 @@
     "author": "Macbookpro16",
     "creators": ["Macbookpro16"],
     "verifier": "ROSA",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://www.youtube.com/watch?v=4jNjpDqLmfs",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "Rshadow",
+            "link": "https://www.youtube.com/watch?v=4jNjpDqLmfs",
+            "percent": 82,
+            "hz": 240
+        }
     ]
 }
