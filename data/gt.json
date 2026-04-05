@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "andromeda",
+            "link": "https://www.youtube.com/watch?v=-Mt8Tpo_lGw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
