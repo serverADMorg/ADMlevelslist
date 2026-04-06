@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "ROSA",
+            "link": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+            "percent": 100,
+            "hz": 240
+        }
            ]
 }
