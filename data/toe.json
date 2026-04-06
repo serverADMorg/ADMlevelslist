@@ -51,7 +51,7 @@
             "hz": 240
           },
          {
-        "user": "Rashdow",
+        "user": "Rshdow",
             "link": "https://www.youtube.com/watch?v=zrEtA6-52yA",
             "percent": 100,
             "hz": 240
@@ -64,6 +64,12 @@
           },
           {
         "user": "alfie",
+            "link": "https://www.youtube.com/watch?v=zrEtA6-52yA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+        "user": "KWIZZ",
             "link": "https://www.youtube.com/watch?v=zrEtA6-52yA",
             "percent": 100,
             "hz": 60
