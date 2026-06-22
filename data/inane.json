@@ -3,17 +3,11 @@
     "name": "Inane Demon",
     "author": "KiwiPenguin",
     "creators": ["KiwiPenguin"],
-    "verifier": "Dannyrut",
+    "verifier": "lexon",
     "verification": "https://www.youtube.com/watch?v=I5dkVwV5D9c",
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
-          {
-            "user": "lexon",
-            "link": "https://www.youtube.com/watch?v=I5dkVwV5D9c",
-            "percent": 100,
-            "hz": 240
-        },
          {
             "user": "crystalz",
             "link": "https://www.youtube.com/watch?v=I5dkVwV5D9c",
