@@ -10,9 +10,15 @@
     "records": [
          {
             "user": "dannyrut",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "https://www.youtube.com/watch?v=smwunc7UiHk",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "shadiwwisard",
+            "link": "https://www.youtube.com/watch?v=smwunc7UiHk",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
