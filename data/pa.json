@@ -9,7 +9,13 @@
     "password": "Not Copyable",
     "records": [
          {
-            "user": "danny rut",
+            "user": "dannyrut",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        },
+         { 
+             "user": "shadiwwisard",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 240
