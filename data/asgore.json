@@ -8,5 +8,11 @@
     "percentToQualify": 65,
     "password": "Not Copyable",
     "records": [
+         {
+            "user": "snowninja6861",
+            "link": "https://www.youtube.com/watch?v=hyc0YIURMp8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
